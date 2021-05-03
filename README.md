@@ -1,2 +1,2 @@
 ﻿# boostrap-form
- [linkedln](linkedin.com/in/volkan-vural-software)
+ [linkedln](https://www.linkedin.com/in/volkan-vural-software/)
